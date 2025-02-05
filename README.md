@@ -129,24 +129,9 @@ This work demonstrates how **deep learning and semi-supervised learning** can re
 ![output_image10](https://github.com/user-attachments/assets/7129751a-cdf2-4709-b6ec-e74a7feb6646)
 
 
-
-### **Future Improvements**
-- Fine-tuning model hyperparameters for **real-time deployment**.
-- Expanding the dataset to include **more diverse agricultural conditions**.
-- Implementing **edge AI** for low-power **on-field inference**.
-
----
-
 ## **How to Run**
 ### **1. Clone the Repository**
 ```bash
 https://github.com/DataWorshipper/12_Semi-Supervised-Weed-Detection.git
 cd weed-detection-yolov9
 ```
-
-
-```
-
----
-
-
