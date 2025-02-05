@@ -12,6 +12,7 @@ This work is part of a **competition submission**, demonstrating advanced deep l
 - `v9-giou-f1.ipynb` – Model training and evaluation using **GIoU loss** and **F1 score-based optimization**.
 - `Template_for_Geophysical_Journal_International_GJIRAS.pdf` – Research paper detailing the methodology and results.
 - `README.md` – Documentation for the project.
+- https://drive.google.com/file/d/1MJYAiMfp_e2WOaUlYnscuEGAd-V9bhCY/view?usp=drive_link -Link for final model's weights
 
 ---
 
@@ -110,6 +111,8 @@ Only predictions with a confidence score ≥ **0.5** are considered for pseudo-l
 | **Recall**   | 0.88 |
 | **F1 Score** | 0.89 |
 | **mAP@50-95** | 0.62 |
+| **Final Metric for PS** | 0.76 |
+
 
 ### **Key Findings**
 - The **semi-supervised YOLOv9 model** achieved high accuracy in weed detection.
@@ -119,8 +122,13 @@ Only predictions with a confidence score ≥ **0.5** are considered for pseudo-l
 
 ---
 
-## **Conclusion**
+## **Inference and Conclusion**
 This work demonstrates how **deep learning and semi-supervised learning** can revolutionize **weed detection in precision agriculture**. By integrating **YOLOv9** with **GIoU loss** and **F1 optimization**, we achieve **scalable, high-accuracy detection** while reducing reliance on **expensive labeled data**.
+
+![output_image3 (1)](https://github.com/user-attachments/assets/72e098cb-10f8-46c6-ad1f-89063487ebaa)
+![output_image10](https://github.com/user-attachments/assets/7129751a-cdf2-4709-b6ec-e74a7feb6646)
+
+
 
 ### **Future Improvements**
 - Fine-tuning model hyperparameters for **real-time deployment**.
@@ -132,17 +140,13 @@ This work demonstrates how **deep learning and semi-supervised learning** can re
 ## **How to Run**
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/weed-detection-yolov9.git
+https://github.com/DataWorshipper/12_Semi-Supervised-Weed-Detection.git
 cd weed-detection-yolov9
 ```
 
-### **2. Run the Model Training**
-Open and execute the Jupyter Notebook:
-```bash
-jupyter notebook v9-giou-f1.ipynb
+
 ```
 
 ---
 
-## **Acknowledgments**
-This project is submitted for **[Competition Name]**, using cutting-edge **YOLOv9 object detection** for **precision agriculture**.
+
