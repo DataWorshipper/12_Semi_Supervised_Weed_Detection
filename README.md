@@ -106,10 +106,10 @@ Only predictions with a confidence score ≥ **0.5** are considered for pseudo-l
 ### **Key Evaluation Metrics**
 | Metric       | Performance |
 |-------------|------------|
-| **Precision** | High |
-| **Recall**   | High |
-| **F1 Score** | Balanced detection |
-| **mAP@50-95** | Near-accurate object localization |
+| **Precision** | 0.89 |
+| **Recall**   | 0.88 |
+| **F1 Score** | 0.89 |
+| **mAP@50-95** | 0.62 |
 
 ### **Key Findings**
 - The **semi-supervised YOLOv9 model** achieved high accuracy in weed detection.
