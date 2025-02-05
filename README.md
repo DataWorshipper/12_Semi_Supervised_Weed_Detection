@@ -102,9 +102,17 @@ Confidence = Objectness * Class Probability
 Only predictions with a confidence score ≥ **0.5** are considered for pseudo-labeling.
 
 ---
+## **Results & Performance Metrics of the Baseline YOLO Model**
+| Metric       | Performance |
+|-------------|------------|
+| **Precision** | 0.77 |
+| **Recall**   | 0.85 |
+| **F1 Score** | 0.81 |
+| **mAP@50-95** | 0.58 |
+| **Final Metric for PS** | 0.69 |
 
-## **Results & Performance Metrics**
-### **Key Evaluation Metrics**
+
+## **Results & Performance Metrics of the Final Model**
 | Metric       | Performance |
 |-------------|------------|
 | **Precision** | 0.89 |
