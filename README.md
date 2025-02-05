@@ -111,7 +111,7 @@ Only predictions with a confidence score ≥ **0.5** are considered for pseudo-l
 | **Recall**   | 0.88 |
 | **F1 Score** | 0.89 |
 | **mAP@50-95** | 0.62 |
-| **Final Metric for PS** | 0.76 |
+| **Final Metric for PS** | 0.75 |
 
 
 ### **Key Findings**
