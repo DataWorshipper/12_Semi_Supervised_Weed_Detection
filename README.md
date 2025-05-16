@@ -32,7 +32,7 @@ pip install torch torchvision albumentations numpy opencv-python matplotlib tqdm
 
 ---
 
-## **Dataset & Preprocessing**
+## **Dataset & Preprocessing** 
 The dataset consists of:
 - **200 labeled images** (annotated with crops and weeds).
 - **1,000 unlabeled images** (used for semi-supervised training).
@@ -143,3 +143,8 @@ This work demonstrates how **deep learning and semi-supervised learning** can re
 https://github.com/DataWorshipper/12_Semi-Supervised-Weed-Detection.git
 cd weed-detection-yolov9
 ```
+## **Authors**
+- [Abhiraj Mandal](https://github.com/DataWorshipper)
+- [Abhi Tanwar](https://github.com/abhitan007)
+- [Arnav Gupta](https://github.com/arnav0103)
+- [Tushay Gupta](https://github.com)
