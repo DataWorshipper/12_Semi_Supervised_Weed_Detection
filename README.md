@@ -147,4 +147,4 @@ cd weed-detection-yolov9
 - [Abhiraj Mandal](https://github.com/DataWorshipper)
 - [Abhi Tanwar](https://github.com/abhitan007)
 - [Arnav Gupta](https://github.com/arnav0103)
-- [Tushay Gupta](https://github.com)
+- [Tushay Gupta](https://github.com/Skidzomaniac)
