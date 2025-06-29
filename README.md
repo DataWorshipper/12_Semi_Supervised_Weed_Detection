@@ -149,3 +149,4 @@ cd weed-detection-yolov9
 - [Arnav Gupta](https://github.com/arnav0103)
 - [Tushay Gupta](https://github.com/Skidzomaniac)
 - [Mit Narodia](https://github.com/MitNarodia)
+- [Vansh Gandharva](https://github.com/vanshg007)
