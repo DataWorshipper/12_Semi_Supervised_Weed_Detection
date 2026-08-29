@@ -151,3 +151,4 @@ cd weed-detection-yolov9
 - [Mit Narodia](https://github.com/MitNarodia)
 - [Pratyush Kumar](https://github.com/rider-pratyush)
 - [Vansh Gandharva](https://github.com/vanshg007)
+- [Ayush Kumar](https://github.com/7Ayush-cyber)
